@@ -33,4 +33,4 @@ Begin datum:
 
 Einddatum:
 01-09-2026
-“If you know the enemy and know yourself, you need not fear the result of a hundred battles  – Sun Tzu, The Art of War"
+Quote van de dag:If you know the enemy and know yourself, you need not fear the result of a hundred battles  – Sun Tzu, The Art of War

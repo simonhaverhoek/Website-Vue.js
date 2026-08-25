@@ -3,9 +3,9 @@
 Simon Haverhoek - 97100084
 
 De naam van dit project is "Website Vue.js".
-Dit wordt een website waar je allerlei informatie kan vinden over de Unstable SMP. 
+Dit wordt een website waar je allerlei informatie kan vinden over de Unstable SMP.En een Wireframe hoe de website er ongeveer uit komt te zien.
 
-De reden waarom ik deze website wil maken, is omdat ik Vue.js wil leren. Ik heb op Stagemarkt gezien dat veel bedrijven hierom vragen, dus wil ik er wat ervaring mee opdoen. De leerdoelen die ik hiermee heb zijn, de basis van Vue.js leren en beter worden met websites maken die er ook mooi uit zien.
+De reden waarom ik deze website wil maken, is omdat ik Vue.js wil leren. Ik heb op Stagemarkt gezien dat veel bedrijven hierom vragen, dus wil ik er wat ervaring mee opdoen. De leerdoelen die ik hiermee heb zijn, de basis van Vue.js leren en beter worden met websites maken.
 
 Voor de randvoorwaarden heb ik met ChatGPT gekeken welke van toepassing zijn op mijn website. Dit zijn de volgende punten:
 

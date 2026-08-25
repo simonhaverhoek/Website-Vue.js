@@ -1,20 +1,28 @@
-# Wordpress webshop
+# Laravel website
 Simon Haverhoek-97100084
 
-De naam van dit project is "Wordpress webshop".
-deze website is een webshop waar je allerlei soorten electronica kan kopen 
+De naam van dit project is "website laravel".
+dit word een website waar je allerlei informatie kan vinden over de unstable smp
 
-de reden waarom ik deze webshop wil maken is omdat ik wordpress wil leren omdat ik zag dat op stage markt redelijk veel bedrijven daarom vragen
+de reden waarom ik deze website wil maken is omdat ik Laravel wil leren omdat ik op stagemarkt zag dat heel veel bedrijven daarom vragen dus wil ik er wat ervaring mee opdoen
 
-Voor de randvoorwaarden heb ik gekeken welke tellen bij mijn website en dat zijn de volgende punten:
+Voor de randvoorwaarden heb ik met chatgpt gekeken welke tellen bij mijn website en dat zijn de volgende punten:
 
 COPYRIGHT:
-aangezien ik  product foto`s van bedrijven ga gebruiken moet ik de bron vermelden ergens op de zelfe pagina
+=
+Afbeeldingen, video's, logo's en teksten van anderen mogen niet zomaar worden overgenomen.
+Voor afbeeldingen en ander materiaal moet toestemming zijn of moet materiaal met een geschikte licentie worden gebruikt.
+Bij gebruik van materiaal van de Unstable SMP moet duidelijk zijn wie de eigenaar ervan is.
 
-AVG:
-aangezien je met allemaal persoonsinformatie van klanten moet verwerken 
-zoals naam,adres,mailadres en telefoonnummer
+Maatschappelijke Impact:
+=
+De website moet respectvol omgaan met de spelers en community.
+Er mag geen haatdragende, discriminerende of kwetsende content worden geplaatst.
+De website moet geen nepnieuws of onbewezen beschuldigingen over spelers verspreiden.
+
+
 
 Begin Datum 
-
+25-08-2026
 Eind Datum
+???

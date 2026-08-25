@@ -23,9 +23,9 @@ De website mag geen nepnieuws of onbewezen beschuldigingen over spelers versprei
 
 De werkprocessen die hierbij gaan tellen zijn:
 
-W2 | Maakt een technisch ontwerp voor software
-W1 | Stemt opdracht af, plant werkzaamheden en bewaakt de voortgang
-W3 | Realiseert (onderdelen van) software
+W2 | Maakt een technisch ontwerp voor software,
+W1 | Stemt opdracht af, plant werkzaamheden en bewaakt de voortgang,
+W3 | Realiseert (onderdelen van) software.
 
 
 Begin datum:

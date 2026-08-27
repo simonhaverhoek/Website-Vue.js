@@ -29,8 +29,8 @@ W3 | Realiseert (onderdelen van) software.
 
 
 Begin datum:
-25-08-2026
+27-08-2026
 
 Einddatum:
-01-09-2026
+02-09-2026
 Quote van de dag:If you know the enemy and know yourself, you need not fear the result of a hundred battles  – Sun Tzu, The Art of War
